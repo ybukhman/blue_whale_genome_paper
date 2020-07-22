@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/ybukhman/blue_whale_genome_paper/tree/gh-pages) branch hosts the contents of this directory at <https://ybukhman.github.io/blue_whale_genome_paper/>.
-The permalink for this webpage version is <https://ybukhman.github.io/blue_whale_genome_paper/v/bd1f41dc4bc814be52a06888673443656e123d20/>.
+The permalink for this webpage version is <https://ybukhman.github.io/blue_whale_genome_paper/v/692a6d09d7685b0dc9a248cc449457534901b33f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://ybukhman.github.io/blue_whale_genome_paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`bd1f41dc4bc814be52a06888673443656e123d20`](https://github.com/ybukhman/blue_whale_genome_paper/commit/bd1f41dc4bc814be52a06888673443656e123d20).
+[`692a6d09d7685b0dc9a248cc449457534901b33f`](https://github.com/ybukhman/blue_whale_genome_paper/commit/692a6d09d7685b0dc9a248cc449457534901b33f).
