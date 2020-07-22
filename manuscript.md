@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ybukhman.github.io/blue_whale_genome_paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ybukhman.github.io/blue_whale_genome_paper/v/692a6d09d7685b0dc9a248cc449457534901b33f/" />
+  <link rel="alternate" type="text/html" href="https://ybukhman.github.io/blue_whale_genome_paper/v/9350810bbdb59f706ce358c67a7f1c3ee5cd87f2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/692a6d09d7685b0dc9a248cc449457534901b33f/" />
+  <meta name="manubot_html_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/9350810bbdb59f706ce358c67a7f1c3ee5cd87f2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/692a6d09d7685b0dc9a248cc449457534901b33f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/9350810bbdb59f706ce358c67a7f1c3ee5cd87f2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://ybukhman.github.io/blue_whale_genome_paper/v/692a6d09d7685b0dc9a248cc449457534901b33f/))
+([permalink](https://ybukhman.github.io/blue_whale_genome_paper/v/9350810bbdb59f706ce358c67a7f1c3ee5cd87f2/))
 was automatically generated
-from [ybukhman/blue_whale_genome_paper@692a6d0](https://github.com/ybukhman/blue_whale_genome_paper/tree/692a6d09d7685b0dc9a248cc449457534901b33f)
+from [ybukhman/blue_whale_genome_paper@9350810](https://github.com/ybukhman/blue_whale_genome_paper/tree/9350810bbdb59f706ce358c67a7f1c3ee5cd87f2)
 on July 22, 2020.
 </em></small>
 
@@ -139,6 +139,8 @@ on July 22, 2020.
 ## Abstract {.page_break_before}
 
 The blue whale, _Balaenoptera musculus_, is the world’s largest animal and, to our knowledge, the largest to have ever existed. We report a high-quality assembly of the genome of this fascinating species. This is one of the first genomes of a cetacean sequenced using a long-read technology. We sequenced genomic DNA using PacBio long read, Illumina short read, and 10X Genomics synthetic long read technologies. We also obtained long-range mapping information using Bionano optical mapping and Dovetail Hi-C. Additionally, we sequenced the transcriptome of blue whale fibroblasts using Illumina RNA-seq and PacBio Iso-seq technologies. We also measured genome size using a flow cytometry technique. We report on 1) comparison of alternative long read and short read based assemblies, 2) segmental duplications within the blue whale genome, and 3) historical demography of Pacific and Atlantic blue whale populations. A high quality, annotated blue whale genome shall serve as an important resource for developmental and stem cell biology, evolution, and conservation research.
+
+Test
 
 
 ## References {.page_break_before}
