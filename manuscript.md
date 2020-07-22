@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ybukhman.github.io/blue_whale_genome_paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ybukhman.github.io/blue_whale_genome_paper/v/edc32ede046169e0a93401c7985a243fb1b77557/" />
+  <link rel="alternate" type="text/html" href="https://ybukhman.github.io/blue_whale_genome_paper/v/4c58ad06d09e020a5b840fe293bb33adc709205a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/edc32ede046169e0a93401c7985a243fb1b77557/" />
+  <meta name="manubot_html_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/4c58ad06d09e020a5b840fe293bb33adc709205a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/edc32ede046169e0a93401c7985a243fb1b77557/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ybukhman.github.io/blue_whale_genome_paper/v/4c58ad06d09e020a5b840fe293bb33adc709205a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://ybukhman.github.io/blue_whale_genome_paper/v/edc32ede046169e0a93401c7985a243fb1b77557/))
+([permalink](https://ybukhman.github.io/blue_whale_genome_paper/v/4c58ad06d09e020a5b840fe293bb33adc709205a/))
 was automatically generated
-from [ybukhman/blue_whale_genome_paper@edc32ed](https://github.com/ybukhman/blue_whale_genome_paper/tree/edc32ede046169e0a93401c7985a243fb1b77557)
+from [ybukhman/blue_whale_genome_paper@4c58ad0](https://github.com/ybukhman/blue_whale_genome_paper/tree/4c58ad06d09e020a5b840fe293bb33adc709205a)
 on July 22, 2020.
 </em></small>
 

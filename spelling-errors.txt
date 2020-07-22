@@ -7,7 +7,7 @@ cytometry
 duplications
 fibroblasts
 Fong
-genomic
+Genomic
 heterozygosity
 Illumina
 IUCN
